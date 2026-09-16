@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Jonathan Repreza
 
 ## Favorite Technology
 
@@ -10,10 +10,13 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
+- Chess
+- Rock Climbing
+- Soccer
+- Lacrosse
+- Raquetball
 - Gaming
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Gravity Falls
