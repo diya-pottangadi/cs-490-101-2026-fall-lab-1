@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Nicholas Furman
 
 ## Favorite Technology
 
@@ -10,10 +10,10 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
 - Gaming
+- YouTube
+- Running
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Pokemon (the XY Anime)
