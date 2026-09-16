@@ -12,6 +12,7 @@ VS Code
 
 - Chess
 - Rock Climbing
+- Bartending
 - Soccer
 - Lacrosse
 - Raquetball
